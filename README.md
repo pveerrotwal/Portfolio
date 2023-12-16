@@ -1,30 +1,17 @@
-# Jekyll Resume Theme
+# Paramvir Rotwal Resume
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Live demo at (https://pveerrotwal.github.io/Portfolio/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
+[![Page Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
-# Stack
-
-![](https://img.shields.io/badge/jekyll-✓-blue.svg)
-![](https://img.shields.io/badge/html5-✓-blue.svg)
-![](https://img.shields.io/badge/sass-✓-blue.svg)
-![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
-![](https://img.shields.io/badge/particle--js-✓-blue.svg)
-![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
-![](https://img.shields.io/badge/devicon-✓-blue.svg)
-![](https://img.shields.io/badge/gulp-✓-blue.svg)
-
-***
-
-<h3 align="center">Please help this repo with a ⭐ if you find it useful! :blush:</h3>
 
 ***
 
 # Screenshot
 
 <p align="center">
-  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+ <img width="1440" alt="Screenshot 2023-12-16 at 10 24 21 PM" src="https://github.com/pveerrotwal/Portfolio/assets/108364147/b96f6879-90a8-469d-8ede-7c54c05d9817">
+
 </p>
 
 # Quick Setup
@@ -47,9 +34,9 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 ## User settings
 ```yml
 username: Lorem Ipsum
-user_description: Software Engineer at Lorem Ipsum Dolor
-user_title: Mauricio Urraco
-email: mauriurraco@gmail.com
+user_description: Software Engineer
+user_title: Paramvir Rotwal
+email: paramvirrotwal@gmail.com
 ```
 
 > Don't forget to change your URL before you deploy your site!
@@ -67,7 +54,7 @@ email: mauriurraco@gmail.com
 You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
 
 ```html
-<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+<a aria-label="My Github" target="_blank" href="https://github.com/pveerrotwal">
   <i class="icon fa fa-github-alt" aria-hidden="true"></i>
 </a>
 ```
@@ -86,8 +73,5 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 - Report issues
 - Open pull request with improvements
 - Spread the word
-- Reach out to me directly at <mauriurraco@gmail.com>
+- Reach out to me directly at <paramvirrotwal@gmail.com>
 
-# Credits
-
-- [Nathan Randecker](https://github.com/nrandecker)
