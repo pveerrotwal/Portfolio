@@ -1,12 +1,17 @@
 # Site settings
 title: Paramvir Rotwal
-description: Jekyll Theme Minimal Resume
+description: Paramvir Rotwal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Paramvir Rotwal
-user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
+user_description: I am currently pursuing my Bachelor's degree in Information Technology. Currently focused on learning DevOps and exploring the Cloud Computing Services.
+Implementing my skills using Java, Spring Boot, AWS, HTML, CSS, JavaScript. 
+- Hands on using AWS services like EC2, IAM, S3, RDS, EBS, VPC, AWS Lambda, ECS, CodeBuild, etc.
+- Implementing DevOps Methodologies on cloud services.
+- Coded Web Applications using Microservices like Java, Spring Boot, Hibernate.
+- Using Linux as my primary OS, proficient in Shell Scripting using Bash.
 user_title: Software Engineer
 email: paramvirrotwal@gmail.com
 # twitter_username: lorem_ipsum
